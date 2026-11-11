@@ -1,0 +1,16 @@
+# Python & Virtual Env
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Model Files & Weights
+*.safetensors
+*.bin
+
+# Binaries & Executables
+*.exe
+*.zip
+
+# Node modules
+node_modules/
